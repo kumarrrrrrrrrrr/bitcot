@@ -1,0 +1,30 @@
+.App {
+    text-align: center;
+}
+.name{
+color: red;
+place-content: left;
+/* min-height: 100vh; */
+display: flex;
+}
+form{
+    place-content: center;
+    display: flex;
+}
+.name1{
+    color: orange;
+    text-align: center;
+}
+.name2{
+    color: rgb(196, 37, 37);
+    font-size: 20px;
+   font-weight: bold;
+}
+.name3{
+    color: rgb(196, 37, 37);
+   font-size: 20px;
+   font-weight: bold;
+}
+.center div{
+    color: brown;
+}
